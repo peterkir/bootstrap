@@ -36,4 +36,4 @@ alias nowdate='date +"%d-%m-%Y"'
 # show open ports
 alias ports='netstat -tulanp'
 
-PS1="PS1="\D{%Y%m%d-%H%M%S} \u@\H:\w jobs=\j\n$"
+PS1="\D{%Y%m%d-%H%M%S} \u@\H:\w jobs=\j\n$"
